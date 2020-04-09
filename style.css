@@ -49,3 +49,8 @@ div.Welcome{
   font-size: 300%;
   text-align:center;
 }
+
+#my_image{
+  height:30%;
+  width:30%;
+}
