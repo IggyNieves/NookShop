@@ -15,14 +15,7 @@ ul li{
 
 ul li a{
   text-decoration: none;
-  color: #fff
+  color: #fff;
   padding: 5px 20px;
   border: 1px solid #fff;
-}
-
-body {
-  background-color: #ddd66b;
-  font-family: "Arial Rounded", Helvetica, sans-serif;
-  font-size: 150%;
-  color: #6d6c2b;
 }
