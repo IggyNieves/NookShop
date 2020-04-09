@@ -21,7 +21,7 @@ ul li{
 
 ul li a{
   font-family: "Avenir Light";
-  font-size: : 17px;
+  font-size: 17px;
   text-decoration: none;
   color: #fff;
   padding: 5px 20px;
@@ -36,9 +36,12 @@ ul li a:hover{
 
 body{
   background-color: #ddd66b;
-  font-family: "Arial";
+  font-family: "Arial Black";
   font-size: 150%;
   color: #6d6c2b;
+}
+
+div.FrontP
 }
 
 div.Welcome{
@@ -46,7 +49,3 @@ div.Welcome{
   font-size: 300%;
   text-align:center;
 }
-
-div.FrontPage{
-padding: 25px;
-  }
