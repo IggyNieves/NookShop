@@ -21,7 +21,7 @@ ul li{
 
 ul li a{
   font-family: "Avenir Light";
-  font-size: : 17px;
+  font-size: 17px;
   text-decoration: none;
   color: #fff;
   padding: 5px 20px;
@@ -39,7 +39,8 @@ body{
   font-family: "Arial Black";
   font-size: 150%;
   color: #6d6c2b;
+}
 
-.frontpage img{
-    padding: 50px 50px;
-  }
+div.FrontPage{
+  padding: 40px;
+}
