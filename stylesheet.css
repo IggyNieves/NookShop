@@ -9,3 +9,19 @@ body {
   font-size: 150%;
   color: #6d6c2b;
 }
+
+ul{
+  float: right;
+  list-style-type: none;
+}
+
+ul li{
+  display: inline-inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #fff
+  padding: 5px 20px;
+  border: 1px solid #fff;
+}
