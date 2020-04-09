@@ -1,3 +1,10 @@
+header {
+  background-color: #ab633f;
+  font-family: "Libre Baskerville",;
+  font-size: 50%;
+  color: #FFFFFF;
+}
+
 body {
   background-color: #ddd66b;
   font-family: "Arial Rounded", Helvetica, sans-serif;
