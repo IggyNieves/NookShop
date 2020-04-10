@@ -10,7 +10,7 @@ header {
 
 #my_image{
   height:100%;
-  width:100px;
+  width:80px;
   float:left;
   margin-top:6px;
   margin-left: 10px;
@@ -25,7 +25,7 @@ text-align:justify;
 
 ul {
   float:right;
-  height:10vh;
+  height:100px;
   list-style-type:none;
   margin-top: 30px;
   margin-right: 100px;
@@ -41,18 +41,11 @@ ul li a{
   text-decoration: none;
   color: #fff;
   padding: 5px 20px;
-  border: 1px solid #fff;
   transition: 0.6s ease;
 }
 
 ul li a:hover{
-  background-color: #fff;
   color: #000;
-}
-
-div.SearchButton{
-  float:right;
-  display:block;
 }
 
 body{
@@ -96,6 +89,18 @@ div.Line{
   padding:60px;
 }
 
-.frontlogos{
+button{
+  background-color: transparent;
+  border:transparent;
+}
 
+div.container{
+width: 30px;
+height: 30px;
+float:right;
+}
+
+div.container img{
+width: 100%;
+height: auto;
 }
