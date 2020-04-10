@@ -52,6 +52,15 @@ div.Welcome{
 
 #my_image{
   height:0%;
-  width:7%;
+  width:4%;
   float:left;
+  margin-top:6px;
+  margin-left: 10px;
+}
+
+div.Nookshop {
+padding:35px;
+font-family:"Libre Baskerville";
+color: #FFF;
+text-align:justify;
 }
