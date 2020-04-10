@@ -47,7 +47,8 @@ div.FrontPage{
 div.Welcome{
   font-family: "Arial Black";
   font-size: 300%;
-  text-align:center;
+  text-align:center
+  padding: 300px;
 }
 
 #my_image{
