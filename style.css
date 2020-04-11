@@ -8,25 +8,37 @@ header {
   height: 100px
 }
 
+
+div.logo{
+  width:300px;
+  height:auto;
+}
+div.logo img{
+height:auto;
+width:auto;
+float:left;
+margin-top:6px;
+margin-left: 10px;
+}
+
+div.logo button{
+  background-color: transparent;
+  border:transparent;
+}
+
 #my_image{
-  height:100%;
-  width:80px;
+  height:auto;
+  width:100%;
   float:left;
   margin-top:6px;
   margin-left: 10px;
-}
-
-div.Nookshop {
-padding:35px;
-font-family:"Libre Baskerville";
-color: #FFF;
 }
 
 ul {
   float:right;
   height:100px;
   list-style-type:none;
-  margin-top: 25px;
+  margin-top: 40px;
   margin-right: 100px;
 }
 
@@ -91,8 +103,8 @@ div.frontpagelogos button{
   border:transparent;
 }
 div.frontpagelogos img{
-padding-left: 15x;
-padding-right: 15px;
+padding-left: 10px;
+padding-right: 10px;
  }
 
 
