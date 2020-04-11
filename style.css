@@ -16,18 +16,17 @@ header {
   margin-left: 10px;
 }
 
-  div.Nookshop {
+div.Nookshop {
 padding:35px;
 font-family:"Libre Baskerville";
 color: #FFF;
-text-align:justify;
 }
 
 ul {
   float:right;
   height:100px;
   list-style-type:none;
-  margin-top: 30px;
+  margin-top: 25px;
   margin-right: 100px;
 }
 
@@ -48,14 +47,20 @@ ul li a:hover{
   color: #000;
 }
 
-body{
-  background-color: #ddd66b;
-  font-family: "Arial";
-  font-size: 150%;
-  color: #6d6c2b;
+div.usersearch{
+float:right;
+width: 30px;
+height: 30px;
+margin-top:-5px;
 }
 
-div.Welcome{
+div.usersearch img{
+width: 100%;
+height: auto;
+padding:-30px;
+}
+
+div.welcomemessage{
   font-family: "Arial Black";
   font-size: 300%;
   margin-left:auto;
@@ -65,7 +70,14 @@ div.Welcome{
   text-align:center;
 }
 
-  div.FrontPage{
+body{
+  background-color: #ddd66b;
+  font-size: 150%;
+  font-family: "Arial";
+  color: #6d6c2b;
+}
+
+div.frontpagelogos{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -74,8 +86,17 @@ div.Welcome{
   padding:40px;
   text-align:center;
 }
+div.frontpagelogos button{
+  background-color: transparent;
+  border:transparent;
+}
+div.frontpagelogos img{
+padding-left: 15x;
+padding-right: 15px;
+ }
 
-div.Forum{
+
+div.forumgo{
   display:block;
   margin-left:auto;
   margin-right:auto;
@@ -83,24 +104,13 @@ div.Forum{
   text-align:center;
   margin-top:-30px;
 }
-
-div.Line{
-  text-align:center;
-  padding:60px;
-}
-
-button{
+div.forumgo button{
   background-color: transparent;
   border:transparent;
 }
 
-div.container{
-width: 30px;
-height: 30px;
-float:right;;
-}
 
-div.container img{
-width: 100%;
-height: auto;
+div.frontdescription{
+  text-align:center;
+  padding:60px;
 }
